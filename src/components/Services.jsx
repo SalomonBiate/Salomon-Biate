@@ -169,7 +169,7 @@ const Services = () => {
                         transition={{ delay: 0.5 }}
                         className="text-zinc-400 text-sm sm:text-lg max-w-2xl mx-auto mt-5 sm:mt-6 px-2 font-light leading-relaxed"
                     >   
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.  
+                        Je transforme les problèmes concrets en Afrique en solutions numériques innovantes.
                     </motion.p>
                 </motion.div>
 

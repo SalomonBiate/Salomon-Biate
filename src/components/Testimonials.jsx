@@ -5,6 +5,7 @@ import test1 from "../assets/test1.png";
 import test2 from "../assets/test2.png";
 import test3 from "../assets/test3.png";
 import test4 from "../assets/test4.png";
+import test7 from "../assets/test7.png";
 
 const Testimonials = () => {
   const ref = useRef(null);
@@ -20,13 +21,13 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Kimmich Sarah",
-      role: "CEO, TechCrop",
-      image: test1,
-      text: "Ce que j'apprécie chez Salomon, c'est sa capacité à prendre des initiatives et à transformer une idée en projet concret. Il ne se contente pas de parler de technologie, il cherche réellement à construire.",
-      rating: 5,
+      name: "jean NENENOR",
+      role: " ",
+      image: test7,
+      text: "Salomon a un œil pour le design et une bonne énergie. Son portfolio est déjà très esthétique. Il prend les retours en compte et cherche à progresser, c’est top.",
+      rating: 4,
     },
-    {
+    /*{
       id: 2,
       name: "Emma Sarah",
       role: "CEO, TechCrop",
@@ -42,14 +43,14 @@ const Testimonials = () => {
       text: "Salomon apporte une bonne énergie dans une équipe. Il est ouvert aux échanges, accepte les retours et cherche toujours à faire avancer le travail collectif.",
       rating: 5,
     },
-    {
-      id: 4,
+   {
+     id: 4,
       name: "Kimmich Sarah",
       role: "CEO, TechCrop",
       image: test4,
       text: "Salomon montre un réel intérêt pour le développement de la communauté tech. Il cherche à connecter les personnes, partager les connaissances et créer des opportunités d'apprentissage.",
       rating: 5,
-    },
+    },*/
   ];
 
   useEffect(() => {

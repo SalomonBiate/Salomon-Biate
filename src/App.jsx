@@ -8,7 +8,7 @@ import Work from './components/Work'
 import Services from './components/Services'
 import Testimonials from './components/Testimonials'
 import Certificates from './components/Certificates'
-import Blog from './components/Blog'
+{/*import Blog from './components/Blog'*/}
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
@@ -98,7 +98,7 @@ const App = () => {
       <Services />
       <Testimonials />
       <Certificates />
-      <Blog />
+      {/*<Blog />*/}
       <Contact />
       <Footer />
     </div>
